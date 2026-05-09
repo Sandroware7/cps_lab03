@@ -1,4 +1,4 @@
-package pe.edu.tecsup.lab02;
+package pe.edu.tecsup.lab03;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
